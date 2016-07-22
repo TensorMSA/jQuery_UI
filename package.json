@@ -1,0 +1,31 @@
+{
+  "name": "venus",
+  "version": "v0.42.14",
+  "description": "The new front-end framework for POSCO ICT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Su-Sang Kim and Jeong-Hyun Kim and Ji-Hye Oh",
+  "license": "MIT",
+  "devDependencies": {
+  	"grunt": "^0.4.5",
+  	"grunt-autoprefixer": "^3.0.1",
+  	"grunt-banner": "~0.3.1",
+  	"grunt-contrib-clean": "~0.6.0",
+  	"grunt-contrib-concat": "~0.5.1",
+  	"grunt-contrib-copy": "~0.8.0",
+  	"grunt-contrib-uglify": "^0.9.1",
+  	"grunt-contrib-csslint": "^0.4.0",
+  	"grunt-contrib-cssmin": "^0.12.3",
+  	"grunt-contrib-less": "^1.0.1",
+  	"grunt-csscomb": "^3.0.1",
+  	"grunt-plato": "~1.2.0",
+  	"iconv-lite": "^0.4.13",
+    "grunt-iconv-lite": "^0.1.0", 	
+  	"load-grunt-tasks": "~3.1.0",
+  	"underscore": "^1.8.3"
+    },
+  "engines": {
+    "node": ">=0.10.1"
+  }
+}
